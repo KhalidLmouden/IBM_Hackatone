@@ -1,28 +1,25 @@
-## IBM Hackatone 2025 Watsonx.ai
+# 🚀 HACKATONE with IBM Watsonx.ai
 
-### Introduction
+## 🔍 Introduction
+Harness the power of AI to extract insights from PDFs and assess compliance risks with IBM Watsonx.ai. Transform document analysis into a seamless experience!
 
-An AI-driven tool that retrieves the data out of PDFs and checks the documents' conformity with IBM Watsonx.ai.
+## ⚙️ Setup
+Get started by installing the required dependencies:
+```bash
+pip install streamlit PyPDF2 requests json
+```
 
-### Procedure
-
-First, install the necessary components with the following command:
-
-pip install streamlit PyPDF2 requests
-
-Then, to run it, type:
+## Launch the app with:
+```bash
 
 streamlit run app.py
+```
+### 📌 How It Works
+1. Upload a PDF document 📄
 
-### Method
+2. Click on Analyse with Watsonx.ai ⚡
 
-Choose a PDF file
+3. Receive and review AI-powered compliance insights ✅
 
-Click on "Scan with Watsonx.ai"
-
-Check and understand the AI-generated results in markdown
-
-### Author
-
+### 👤 Author
 Khalid Lemouden
-
