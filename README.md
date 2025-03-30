@@ -1,7 +1,9 @@
-# 🚀 HACKATONE with IBM Watsonx.ai
+# 🚀 HACKATON with IBM Watsonx.ai
 
 ## 🔍 Introduction
-Harness the power of AI to extract insights from PDFs and assess compliance risks with IBM Watsonx.ai. Transform document analysis into a seamless experience!
+Make use of the facility of AI to help in the detection and understanding of the contents of PDF documents and the evaluation of regulatory risks by means of IBM Watsonx.ai, which is a very efficient tool to make the process of finding out the most relevant information an easy and efficient job to do without much physical labor.
+
+Leverage agentic AI to analyze, summarize, and extract key insights from contracts, reports, and other business documents. Detect compliance risks. Automate and optimize document approval workflows that can be a very effective option for users.
 
 ## ⚙️ Setup
 Get started by installing the required dependencies:
