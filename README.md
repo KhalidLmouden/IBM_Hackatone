@@ -5,6 +5,8 @@ Make use of the facility of AI to help in the detection and understanding of the
 
 Leverage agentic AI to analyze, summarize, and extract key insights from contracts, reports, and other business documents. Detect compliance risks. Automate and optimize document approval workflows that can be a very effective option for users.
 
+For more details feel free to visit this link: https://medium.com/@lemouden2001/hackaton-with-ibm-watsonx-ai-165b7405df13
+
 ## ⚙️ Setup
 Get started by installing the required dependencies:
 ```bash
