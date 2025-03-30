@@ -14,7 +14,7 @@ pip install streamlit PyPDF2 requests json
 ## Launch the app with:
 ```bash
 
-streamlit run app.py
+streamlit run main.py
 ```
 ### 📌 How It Works
 1. Upload a PDF document 📄
